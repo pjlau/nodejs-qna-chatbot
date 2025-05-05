@@ -16,8 +16,7 @@ A modern web application with a Node.js frontend and FastAPI backend, featuring 
    │   ├── package.json
    │   ├── server.js
    │   └── node_modules/ (created after npm install)
-   ├── README.md
-   └── .gitignore
+   └── README.md
    ```
 ## Features
 - Dynamic Node.js frontend using Express and EJS for a modern UI.
