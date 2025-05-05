@@ -64,6 +64,24 @@ A modern web application with a Node.js frontend and FastAPI backend, featuring 
 
 
 ## Results
+
+Open the webpage:
+Navigate to `http://localhost:3000`. You should see:
+
+- A list of 10 Q&As with modern styling.
+
+- A textbox to submit questions.
+
+- A response area showing the AI’s answer after submission.
+
+Test the AI:
+
+- Ask a question like "What is Node.js?" to see a direct Q&A match.
+
+- Ask something like "Why use Express.js?" to see a generated response.
+
+
+
 <img src="images/demo_fig1.png" alt="Example1" width="400">
 <br>
 <img src="images/demo_fig2.png" alt="Example2" width="400">
